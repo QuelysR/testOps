@@ -20,6 +20,7 @@ import org.openqa.selenium.Keys as Keys
 String email = "quelys.rodriguez@tsoftglobal.com"
 String password = "123456"
 
+
 WebUI.openBrowser(null)
 WebUI.maximizeWindow()
 WebUI.navigateToUrl('http://www.automationpractice.pl/index.php?controller=authentication&back=my-account')
